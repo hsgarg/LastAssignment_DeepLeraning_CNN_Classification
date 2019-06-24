@@ -9,3 +9,9 @@
 * trainX : Training data consisting of 60K samples
 * trainY : Labels for the 60K training samples
 * testX  : Test data consisting of 10K samples on which predictions are to be performed
+
+## WHY CNN?
+<img src="images1/2.png" width="500" />
+
+## WHY CNN?
+<img src="images1/3.png" width="500" />
