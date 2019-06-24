@@ -2,8 +2,7 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 <br>
 <img src="images1/1.png" width="500">
-
-## Objective 
+<br>
 <img src="images1/2.png" width="500" />
 
 ## Dataset
@@ -13,5 +12,5 @@
 * trainY : Labels for the 60K training samples
 * testX  : Test data consisting of 10K samples on which predictions are to be performed
 
-## Why CNN over other Classification Algorithms?
+<br>
 <img src="images1/3.png" width="500" />
