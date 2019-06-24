@@ -15,5 +15,4 @@
 
 #
 <img src="images1/3.png" width="500" />
-#
-<img src="images1/image.0OT33Z.png" width="500" />
+
