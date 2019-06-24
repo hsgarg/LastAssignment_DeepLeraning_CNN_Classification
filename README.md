@@ -12,7 +12,7 @@
 <img src="images1/2.png" width="500" />
 
 ## Dataset
-<img src="images1/6.png" width="500" />
+<img src="https://i.imgur.com/09gIaUG.gif" width=500 alt="" /><br/>free gifs at <a href="http://gifgifs.com/">gifgifs</a>
 
 * trainX : Training data consisting of 60K samples
 * trainY : Labels for the 60K training samples
