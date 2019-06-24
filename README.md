@@ -3,7 +3,7 @@
 <br>
 <img src="images1/1.png" width="500">
 
-## PROBLEM STATEMENT
+## Objective 
 <img src="images1/2.png" width="500" />
 
 ## Dataset
@@ -13,5 +13,5 @@
 * trainY : Labels for the 60K training samples
 * testX  : Test data consisting of 10K samples on which predictions are to be performed
 
-## WHY CNN?
+## Why CNN over other Classification Algorithms?
 <img src="images1/3.png" width="500" />
