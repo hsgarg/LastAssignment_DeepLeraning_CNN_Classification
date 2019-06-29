@@ -4,6 +4,7 @@
 
 [![star this repo](http://githubbadges.com/star.svg?user=harshgarg27&repo=LastAssignment_DeepLeraning_CNN_Classification&style=default)](https://github.com/harshgarg27/LastAssignment_DeepLeraning_CNN_Classification)
 [![fork this repo](http://githubbadges.com/fork.svg?user=harshgarg27&repo=LastAssignment_DeepLeraning_CNN_Classification&style=default)](https://github.com/harshgarg27/LastAssignment_DeepLeraning_CNN_Classification/fork)
+[![Github all releases](https://img.shields.io/github/downloads/harshgarg27/LastAssignment_DeepLeraning_CNN_Classification/total.svg)](https://github.com/harshgarg27/LastAssignment_DeepLeraning_CNN_Classification)
 
 <br>
 <img src="images1/1.png" width="500">
